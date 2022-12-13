@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/TheAlpha19/test#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
